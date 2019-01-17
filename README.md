@@ -1,4 +1,4 @@
-# Minimal price formatter for Polish Zloty (PLN) 🇵🇱
+# Tiny price formatter for Polish Zloty (PLN) 🇵🇱
 
 
 ## Installation
