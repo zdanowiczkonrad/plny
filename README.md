@@ -1,10 +1,12 @@
 # Minimal price formatter for Polish Zloty (PLN)
 
-## Usage
+## Installation
 
 ```
-npm install
+npm i plny
 ```
+
+## Usage
 
 ```
 const { format } = require('plny');
@@ -16,7 +18,7 @@ format(29999.99);
 
 ## Options
 
-All formatting options from `number-currency-format` are allowed.
+All formatting options from [`number-currency-format`](https://github.com/zdanowiczkonrad/number-currency-format) are allowed.
 
 Example: 
 ```
