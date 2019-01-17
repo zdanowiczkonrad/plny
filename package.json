@@ -1,6 +1,6 @@
 {
   "name": "plny",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Price formatter for PLN currency (Polish Złoty)",
   "main": "index.js",
   "scripts": {
