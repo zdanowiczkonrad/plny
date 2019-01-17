@@ -1,0 +1,22 @@
+{
+  "name": "plny",
+  "version": "1.0.1",
+  "description": "Price formatter for PLN currency (Polish Złoty)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pln",
+    "price",
+    "format",
+    "currency",
+    "i18n",
+    "intl"
+  ],
+  "author": "Konrad Zdanowicz",
+  "license": "MIT",
+  "dependencies": {
+    "number-currency-format": "^0.9.0"
+  }
+}
