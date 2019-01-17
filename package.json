@@ -17,6 +17,6 @@
   "author": "Konrad Zdanowicz",
   "license": "MIT",
   "dependencies": {
-    "number-currency-format": "^0.9.0"
+    "number-currency-format": "^1.0.4"
   }
 }

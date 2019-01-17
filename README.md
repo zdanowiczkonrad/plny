@@ -16,7 +16,6 @@ format(29999.99);
 // '29 999,95 zł'
 ```
 
-
 ## Options
 
 All formatting options from [`number-currency-format`](https://github.com/zdanowiczkonrad/number-currency-format) are allowed.
